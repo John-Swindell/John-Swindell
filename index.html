@@ -2,9 +2,134 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>John-Swindell</title>
+    <title>John Swindell Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Reset and basic styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #ffffff;
+            background-color: #1e1e1e;
+            display: flex;
+            min-height: 100vh;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        /* Sidebar styles */
+        .sidebar {
+            width: 250px;
+            background-color: #2d2d2d;
+            padding: 20px;
+            flex-shrink: 0;
+        }
+        .sidebar h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            text-align: center;
+        }
+        .nav-links {
+            list-style: none;
+        }
+        .nav-links li {
+            margin: 15px 0;
+        }
+        .nav-links a {
+            font-size: 18px;
+        }
+        /* Main content styles */
+        .main-content {
+            flex-grow: 1;
+            padding: 40px;
+        }
+        .section {
+            margin-bottom: 60px;
+        }
+        .section h1, .section h2 {
+            margin-bottom: 20px;
+        }
+        /* Responsive styles */
+        @media (max-width: 768px) {
+            body {
+                flex-direction: column;
+            }
+            .sidebar {
+                width: 100%;
+                padding: 10px;
+            }
+            .main-content {
+                padding: 20px;
+            }
+        }
+    </style>
 </head>
 <body>
+    <!-- Sidebar Navigation -->
+    <div class="sidebar">
+        <h2>John Swindell</h2>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="https://www.linkedin.com/in/john-swindell/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/John-Swindell" target="_blank">GitHub</a></li>
+            <!-- Resume Link -->
+            <!-- To add your resume, place your PDF file in the same directory as this HTML file and replace 'your_resume.pdf' with the file name -->
+            <li><a href="your_resume.pdf" target="_blank">Download Resume</a></li>
+        </ul>
+    </div>
 
+    <!-- Main Content -->
+    <div class="main-content">
+        <!-- Home Section -->
+        <section id="home" class="section">
+            <h1>Hi, my name is John</h1>
+            <p>Welcome to my personal portfolio website.</p>
+        </section>
+
+        <!-- About Me Section -->
+        <section id="about" class="section">
+            <h2>About Me</h2>
+            <p>I am a computer science student passionate about programming.</p>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <h2>Projects</h2>
+            <p>Currently, I don't have any projects to display.</p>
+            <!-- Instructions to Add Projects -->
+            <p>
+                <!-- To add projects, you can create a list or cards here. For example:
+                <ul>
+                    <li>
+                        <strong>Project Title</strong><br>
+                        Description of the project.
+                    </li>
+                </ul>
+                -->
+                <!-- Replace this text with your projects when you have them. -->
+                <!-- You can also include images or links to your project repositories. -->
+            </p>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <h2>Contact Information</h2>
+            <p>You can reach me at:</p>
+            <ul>
+                <li>Email: <a href="mailto:JohnathanWSwindell@gmail.com">JohnathanWSwindell@gmail.com</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/john-swindell/" target="_blank">John Swindell</a></li>
+            </ul>
+            <!-- Instructions to Update Contact Information -->
+            <!-- If you need to add or remove contact methods, edit the list items above. -->
+        </section>
+    </div>
 </body>
 </html>
