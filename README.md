@@ -40,13 +40,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/john-swindell/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:john@jswindell.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=john@jswindell.dev&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://jswindell.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal%20Website&logo=tutanota&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
+    <img src="https://img.shields.io/static/v1?message=%20Portfolio&logo=tutanota&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
   </a>
 </div>
 
