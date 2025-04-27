@@ -1,4 +1,4 @@
-<h1 align="left">Hello and Welcome 👋 <br><br>My name is John Swindell, and I'm a computer science student, from Chicago</h1>
+<h1 align="left">Hello and Welcome 👋 <br><br>My name is John Swindell, and I'm a Computer Science student, from Chicago</h1>
 
 ###
 
