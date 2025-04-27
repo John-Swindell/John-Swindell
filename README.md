@@ -1,8 +1,8 @@
-<h2 align="center">Hello and Welcome 👋 <br><br>My name is John Swindell, and I'm a computer science student, from Chicago</h2>
+<h1 align="center">Hello and Welcome 👋 <br><br>My name is John Swindell, and I'm a computer science student, from Chicago</h1>
 
 ###
 
-<h4 align="left">Actively learning and working with the following technologies:</h4>
+<h2 align="left">Actively learning and working with the following technologies:</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h5 align="left">Feel free to reach out via email if you have any questions. <br>While you're here, take a look at my website and LinkedIn below.</h5>
+<h3 align="left">Feel free to reach out via email if you have any questions. <br>While you're here, take a look at my website and LinkedIn below.</h3>
 
 ###
 
