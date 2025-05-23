@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Feel free to reach out via email if you have any questions. <br>While you're here, take a look at my website and LinkedIn below.</h3>
+<h3 align="left">While you're here, check out my website and LinkedIn below.</h3>
 
 ###
 
