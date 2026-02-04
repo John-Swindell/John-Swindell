@@ -1,57 +1,67 @@
-<h1 align="left">Hello and Welcome 👋 <br><br>My name is John Swindell, and I'm a Computer Science student, from Chicago</h1>
+<h1 align="left">Hello, I'm John Swindell 👋</h1>
 
 ###
 
-<h2 align="left">Actively learning and working with the following technologies:</h2>
+<p align="left">
+  Computer Science student and AI focused engineer based in Chicago. <br>
+  I build resilient data pipelines, automate infrastructure, and integrate LLMs into production environments.
+</p>
 
 ###
+
+<h2 align="left">Technical Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="24" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" />
 </div>
 
 ###
 
-<h3 align="left">While you're here, check out my website and LinkedIn below.</h3>
+<h2 align="left">Featured Projects</h2>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[AI-Driven Onboarding LMS](https://jswindell.dev/blogs/automated-onboarding/)** | A headless LMS using the Gemini API to ingest internal wikis and synthesize role-specific curriculum. | Python, Gemini API, Google Workspace, OpenAI API |
+| **[ML Strategy Validation](https://jswindell.dev/blogs/quant-momentum-research/)** | Signal Funnel diagnostic architecture using QuantStats and SHAP to disqualify high-risk trading strategies. | Python, Scikit-Learn, CatBoost, Ta-lib |
+| **[Quantitative ETL Pipeline](https://jswindell.dev/blogs/data-pipeline/)** | Survivorship-bias-free data pipeline on GCP with a custom two-tier caching strategy (Local + Cloud). | Python, Docker, GCP, Pandas, Numpy|
+| **[Comic Book Scraper Bot](https://jswindell.dev/blogs/comic-scraper-bot/)** | A specialized Discord bot designed to track real-time inventory changes for limited-edition comic book variants.  | Python, BS4, Asyncio, Discord API |
 
 ###
+
+<h3 align="left">Connect with me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/john-swindell/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=%20LinkedIn&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="aboutme logo for linkedin link" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="mailto:john@jswindell.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://jswindell.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20Portfolio&logo=firefox&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="firefox logo representing personal website"  />
-  </a>
+  <a href="https://www.linkedin.com/in/john-swindell/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:john@jswindell.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jswindell.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio%20%26%20Blog&logo=firefox&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
 </div>
-
-###
