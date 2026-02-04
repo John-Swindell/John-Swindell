@@ -62,6 +62,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://jswindell.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio%20%26%20Blog&logo=firefox&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=5f0369&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
 </div>
