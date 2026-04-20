@@ -1,10 +1,10 @@
-<h1 align="left">Hello, I'm John Swindell 👋</h1>
+<h1 align="left">Hey, I'm John</h1>
 
 ###
 
 <p align="left">
-  Computer Science student and AI focused engineer based in Chicago. <br>
-  I build resilient data pipelines, automate infrastructure, and integrate LLMs into production environments.
+  I am a Technical Lead @ Tekly Studio. <br>
+  I work in cloud, data, automation, and LLM integration in production environments.
 </p>
 
 ###
