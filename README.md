@@ -1,6 +1,6 @@
-<h1 align="left">Hey, I'm John</h1>
+![Header](./img/github-header-banner.png)
 
-###
+<h1 align="left">Hey, I'm John</h1>
 
 <p align="left">
   I am a Technical Lead @ Tekly Studio. <br>
