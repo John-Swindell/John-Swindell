@@ -1,0 +1,132 @@
+<svg width="920" height="450" viewBox="0 0 920 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">John-Swindell neofetch-style GitHub profile banner</title>
+  <desc id="desc">A terminal-inspired profile banner with Arch, Hyprland, KDE, DevOps, and platform engineering themed details.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#15191c"/>
+      <stop offset="55%" stop-color="#1d2024"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer frame -->
+  <rect x="18" y="18" width="884" height="414" rx="18" fill="#0b0f12"/>
+  <rect x="26" y="26" width="868" height="398" rx="14" fill="url(#bg)"/>
+
+  <!-- Terminal titlebar -->
+  <rect x="26" y="26" width="868" height="44" rx="14" fill="#181c1f"/>
+  <path d="M26 56 H894 V70 H26 Z" fill="#181c1f"/>
+  <circle cx="56" cy="48" r="7.5" fill="#ff5f56"/>
+  <circle cx="82" cy="48" r="7.5" fill="#ffbd2e"/>
+  <circle cx="108" cy="48" r="7.5" fill="#27c93f"/>
+
+  <text x="460" y="53"
+        text-anchor="middle"
+        font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, Liberation Mono, monospace"
+        font-size="13"
+        fill="#6f7a80">
+    hyprctl — John-Swindell@linux
+  </text>
+
+  <!-- Left visual: Arch / Hyprland-ish glyph
+       Glyph rows are centered on x=220.
+       The Hyprland label is intentionally nudged left to x=212 for visual balance. -->
+  <g font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, Liberation Mono, monospace"
+     font-size="18"
+     fill="#56c7d8"
+     filter="url(#softGlow)">
+    <text x="220" y="111" text-anchor="middle" xml:space="preserve">
+      <tspan x="220" dy="0">/\</tspan>
+      <tspan x="220" dy="22">/  \</tspan>
+      <tspan x="220" dy="22">/    \</tspan>
+      <tspan x="220" dy="22">/      \</tspan>
+      <tspan x="220" dy="22">/   ,,   \</tspan>
+      <tspan x="220" dy="22">/   |  |   \</tspan>
+      <tspan x="220" dy="22">/_-''    ''-_\</tspan>
+      <tspan x="212" dy="24">Hyprland</tspan>
+    </text>
+  </g>
+
+  <!-- Mini control-plane box
+       Box center: x = 65 + 260 / 2 = 195.
+       Title badge center: x = 110 + 170 / 2 = 195. -->
+  <g font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, Liberation Mono, monospace"
+     font-size="14"
+     fill="#7aa2f7"
+     opacity="0.70">
+    <rect x="65" y="288" width="260" height="82" rx="6"
+          fill="none"
+          stroke="#7aa2f7"
+          stroke-width="1.5"/>
+
+    <rect x="110" y="279" width="170" height="20"
+          fill="#1b1f24"/>
+
+    <text x="195" y="293"
+          text-anchor="middle"
+          fill="#7aa2f7">
+      the control plane
+    </text>
+
+    <text x="195" y="318"
+          text-anchor="middle"
+          fill="#7aa2f7">
+      docker  k8s  gcp
+    </text>
+
+    <text x="195" y="341"
+          text-anchor="middle"
+          fill="#7aa2f7">
+      terraform  proxmox
+    </text>
+
+    <text x="195" y="364"
+          text-anchor="middle"
+          fill="#7aa2f7">
+      studying for CKA
+    </text>
+  </g>
+
+  <!-- Main neofetch panel -->
+  <g font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="430" y="104" font-size="20" font-weight="700">
+      <tspan fill="#f1c40f">John-Swindell</tspan><tspan fill="#89b4fa">@github</tspan>
+    </text>
+
+    <text x="430" y="132" font-size="15" fill="#4b5563">
+      ─────────────────────────
+    </text>
+
+    <text font-size="17">
+      <tspan x="430" y="166" fill="#f1c40f">OS</tspan>
+      <tspan x="535" y="166" fill="#d9e0ee">Arch / Ubuntu / Win</tspan>
+
+      <tspan x="430" y="202" fill="#f1c40f">DE/WM</tspan>
+      <tspan x="535" y="202" fill="#d9e0ee">Hyprland + KDE</tspan>
+
+      <tspan x="430" y="238" fill="#f1c40f">Role</tspan>
+      <tspan x="535" y="238" fill="#d9e0ee">Technical Lead · CS Grad</tspan>
+
+      <tspan x="430" y="274" fill="#f1c40f">Editor</tspan>
+      <tspan x="535" y="274" fill="#d9e0ee">Neovim / JetBrains</tspan>
+
+      <tspan x="430" y="310" fill="#f1c40f">Shell</tspan>
+      <tspan x="535" y="310" fill="#d9e0ee">zsh</tspan>
+
+      <tspan x="430" y="346" fill="#f1c40f">Focus</tspan>
+      <tspan x="535" y="346" fill="#d9e0ee">Platform · SRE · DevOps · AI</tspan>
+
+      <tspan x="430" y="382" fill="#f1c40f">Stack</tspan>
+      <tspan x="535" y="382" fill="#d9e0ee">Python · SQL · Go · GCP · K8s</tspan>
+    </text>
+  </g>
+</svg>
