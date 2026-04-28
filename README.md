@@ -1,4 +1,6 @@
-![Header](./img/github-header-banner.png)
+<p align="center">
+  <img src="./img/neofetch-banner.svg" alt="neofetch profile banner" width="100%" />
+</p>
 
 <h1 align="left">Hey, I'm John</h1>
 
