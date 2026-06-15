@@ -4,14 +4,14 @@
 
 # Hey, I'm John
 
-I am a Technical Lead @ Tekly Studio and founder of [Ellide](https://ellide.co/).
+I am the Platform Engineer for the Florida Panthers Business Intelligence Team, Panther Insights, and founder of [Ellide](https://ellide.co/).
 
 I build practical AI and platform systems where product, data, cloud infrastructure, and LLM workflows meet. My recent work includes AI-assisted onboarding systems, GitHub Actions governance, GCP-backed data pipelines, OCR-heavy document workflows, and tooling that turns messy operational inputs into reliable software.
 
 Currently:
 
-- Owning technical delivery for Crypt0nest.io workstreams at Tekly Studio.
-- Building Ellide, an educator-first AI study-material platform for grounded course-document workflows.
+- Owning technical delivery and IaC for the Florida Panthers. 
+- Maintaining Ellide, an educator-first AI study-material platform for grounded course-document workflows.
 - Deepening Go and Kubernetes fundamentals while preparing for the CKA.
 - Keeping a Linux-heavy workflow across Arch, Ubuntu, KDE, Hyprland, Docker, and self-hosted tooling.
 
