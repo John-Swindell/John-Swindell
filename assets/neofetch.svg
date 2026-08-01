@@ -1,6 +1,6 @@
 <svg width="920" height="450" viewBox="0 0 920 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">John-Swindell neofetch-style GitHub profile banner</title>
-  <desc id="desc">A terminal-inspired profile banner with Arch, Hyprland, KDE, DevOps, and platform engineering themed details.</desc>
+  <desc id="desc">A terminal-inspired profile banner with Arch, Hyprland, KDE, AWS, DevOps, and platform engineering themed details.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -49,7 +49,7 @@
       <tspan x="220" dy="22">/      \</tspan>
       <tspan x="220" dy="22">/   ,,   \</tspan>
       <tspan x="220" dy="22">/   |  |   \</tspan>
-      <tspan x="220" dy="22">/_-''    ''-_\</tspan>
+      <tspan x="220" dy="22">/*-''    ''-*\</tspan>
       <tspan x="207" dy="24">Hyprland</tspan>
     </text>
   </g>
@@ -76,13 +76,13 @@
     <text x="195" y="318"
           text-anchor="middle"
           fill="#7aa2f7">
-      docker  k8s  gcp
+      aws  ecs  lambda
     </text>
 
     <text x="195" y="341"
           text-anchor="middle"
           fill="#7aa2f7">
-      terraform  proxmox
+      terraform  github
     </text>
 
     <text x="195" y="364"
@@ -110,7 +110,7 @@
       <tspan x="535" y="202" fill="#d9e0ee">Hyprland + KDE</tspan>
 
       <tspan x="430" y="238" fill="#f1c40f">Role</tspan>
-      <tspan x="535" y="238" fill="#d9e0ee">Technical Lead · CS Grad</tspan>
+      <tspan x="535" y="238" fill="#d9e0ee">Platform Engineer</tspan>
 
       <tspan x="430" y="274" fill="#f1c40f">Editor</tspan>
       <tspan x="535" y="274" fill="#d9e0ee">Neovim / JetBrains</tspan>
@@ -122,7 +122,7 @@
       <tspan x="535" y="346" fill="#d9e0ee">Platform · SRE · DevOps · AI</tspan>
 
       <tspan x="430" y="382" fill="#f1c40f">Stack</tspan>
-      <tspan x="535" y="382" fill="#d9e0ee">Python · SQL · Go</tspan>
+      <tspan x="535" y="382" fill="#d9e0ee">Python · SQL · Go · HCL</tspan>
     </text>
   </g>
 </svg>

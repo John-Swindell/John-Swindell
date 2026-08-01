@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="./img/neofetch-banner.svg" alt="neofetch profile banner" width="100%" />
+  <img src="./assets/neofetch.svg" alt="neofetch-style profile banner" width="100%" />
 </p>
 
 # Hey, I'm John
 
-I am the Platform Engineer for the Florida Panthers Business Intelligence Team, Panther Insights, and founder of [Ellide](https://ellide.co/).
+I am a Platform Engineer for Panther Insights, the Florida Panthers Business Intelligence team.
 
-I build practical AI and platform systems where product, data, cloud infrastructure, and LLM workflows meet. My recent work includes AI-assisted onboarding systems, GitHub Actions governance, GCP-backed data pipelines, OCR-heavy document workflows, and tooling that turns messy operational inputs into reliable software.
+I build practical platform systems where data, cloud infrastructure, internal tooling, and AI-assisted development meet. My current work focuses on AWS infrastructure, CI/CD, developer enablement, and turning fast prototypes into reliable internal software.
 
 Currently:
 
-- Owning technical delivery and IaC for the Florida Panthers. 
-- Maintaining Ellide, an educator-first AI study-material platform for grounded course-document workflows.
+- Owning platform engineering and IaC for the Florida Panthers Business Intelligence team.
+- Building AWS-backed templates and delivery paths for productionizing internal tools.
 - Deepening Go and Kubernetes fundamentals while preparing for the CKA.
 - Keeping a Linux-heavy workflow across Arch, Ubuntu, KDE, Hyprland, Docker, and self-hosted tooling.
 
 ## Technical Focus
 
 - **AI Platform / LLMOps:** OpenAI, Gemini, OCR workflows, document-to-context pipelines, RAG-style outputs
-- **Cloud & DevOps:** GCP, Cloud Run, GCS, Docker, Terraform, GitHub Actions, Linux, Bash
+- **Cloud & DevOps:** AWS, ECS/Fargate, Lambda, S3, CloudFront, Terraform, GitHub Actions, Linux, Bash
 - **Data & MLOps:** Python, Pandas, validation gates, caching layers, point-in-time data pipelines, SHAP, walk-forward validation
 - **Backend / Tools:** FastAPI, SQL, JavaScript, Java, Go fundamentals, automation scripts, internal tooling
 
@@ -35,7 +35,7 @@ Currently:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="Amazon Web Services" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
@@ -52,7 +52,7 @@ Currently:
 
 | Project | What it shows | Stack |
 | :--- | :--- | :--- |
-| **[Ellide](https://ellide.co/)** | Founder-led AI product that turns syllabi, slides, scanned readings, and handouts into AI-ready teaching materials grounded in source context. | OCR, LLM workflows, Markdown/JSON, RAG context, product engineering |
+| **[Ellide](https://ellide.co/)** | Personal AI project that turns syllabi, slides, scanned readings, and handouts into AI-ready teaching materials grounded in source context. | OCR, LLM workflows, Markdown/JSON, RAG context, product engineering |
 | **[AI-Driven Onboarding Platform](https://jswindell.dev/blogs/automated-onboarding/)** | Production-critical onboarding workflow connecting Airtable, DocuSign, Google Workspace, GitHub Actions, and Gemini-generated LMS curriculum. | Python, GCP Cloud Run, GitHub Actions, Gemini, DocuSign, Airtable |
 | **[Quantitative ETL Pipeline](https://jswindell.dev/blogs/data-pipeline/)** | GCP-backed data pipeline with multi-source ingestion, two-tier caching, validation gates, and point-in-time architecture for research workflows. | Python, Docker, GCP, GCS, Pandas, data validation |
 | **[AI Dungeon Crawler / Capstone](https://github.com/John-Swindell/rag-dungeon-crawler)** | Legacy CLI game rebuilt as a containerized FastAPI application with procedural maps, persistent state, Terraform, MongoDB Atlas, and AI-assisted narrative context. | Python, FastAPI, Docker, Terraform, MongoDB, Gemini |
