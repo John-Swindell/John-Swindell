@@ -4,23 +4,25 @@
 
 # Hey, I'm John
 
-I am a Platform Engineer for Panther Insights, the Florida Panthers Business Intelligence team.
+I am a Platform Engineer at the Florida Panthers, embedded with the Business Intelligence team.
 
-I build practical platform systems where data, cloud infrastructure, internal tooling, and AI-assisted development meet. My current work focuses on AWS infrastructure, CI/CD, developer enablement, and turning fast prototypes into reliable internal software.
+I build practical platform systems where data, cloud infrastructure, internal tooling, and AI-assisted work meet. My current focus is cloud infrastructure, internal platforms, and turning fast prototypes into reliable software that technical and non-technical teams can use.
 
 Currently:
 
-- Owning platform engineering and IaC for the Florida Panthers Business Intelligence team.
-- Building AWS-backed templates and delivery paths for productionizing internal tools.
+- Owning platform engineering and infrastructure as code for the Florida Panthers Business Intelligence team.
+- Building AWS-backed application templates and delivery paths for internal tools.
+- Putting QuickSight assets in version control with drift detection, validation, and controlled publishing.
+- Building governed RAG and MCP systems for internal data.
 - Deepening Go and Kubernetes fundamentals while preparing for the CKA.
 - Keeping a Linux-heavy workflow across Arch, Ubuntu, KDE, Hyprland, Docker, and self-hosted tooling.
 
 ## Technical Focus
 
-- **AI Platform / LLMOps:** OpenAI, Gemini, OCR workflows, document-to-context pipelines, RAG-style outputs
-- **Cloud & DevOps:** AWS, ECS/Fargate, Lambda, S3, CloudFront, Terraform, GitHub Actions, Linux, Bash
-- **Data & MLOps:** Python, Pandas, validation gates, caching layers, point-in-time data pipelines, SHAP, walk-forward validation
-- **Backend / Tools:** FastAPI, SQL, JavaScript, Java, Go fundamentals, automation scripts, internal tooling
+- **Internal Platforms:** Governed application templates, developer environments, Entra ID, Cognito, IAM, RAG, and MCP
+- **Cloud & DevOps:** AWS, GCP, ECS/Fargate, Lambda, S3, CloudFront, Terraform, GitHub Actions, Linux, and Bash
+- **Data & Analytics:** QuickSight, Redshift, SPICE, Python, Pandas, validation tooling, and point-in-time pipelines
+- **Backend & Tools:** FastAPI, SQL, JavaScript, Java, Go fundamentals, automation scripts, and CI/CD
 
 ## Stack
 
@@ -52,6 +54,8 @@ Currently:
 
 | Project | What it shows | Stack |
 | :--- | :--- | :--- |
+| **[Internal Application Platform](https://jswindell.dev/blogs/internal-application-platform/)** | A narrow AWS path that turns internal prototypes into authenticated, deployable applications. | AWS, Terraform, GitHub Actions, Entra ID, Cognito |
+| **[QuickSight Version Control](https://jswindell.dev/blogs/quicksight-gitops/)** | Scheduled exports, pull requests, schema-aware validation, rollback, and controlled publishing for QuickSight assets. | QuickSight, GitHub Actions, Python, AWS IAM |
 | **[Ellide](https://ellide.co/)** | Personal AI project that turns syllabi, slides, scanned readings, and handouts into AI-ready teaching materials grounded in source context. | OCR, LLM workflows, Markdown/JSON, RAG context, product engineering |
 | **[AI-Driven Onboarding Platform](https://jswindell.dev/blogs/automated-onboarding/)** | Production-critical onboarding workflow connecting Airtable, DocuSign, Google Workspace, GitHub Actions, and Gemini-generated LMS curriculum. | Python, GCP Cloud Run, GitHub Actions, Gemini, DocuSign, Airtable |
 | **[Quantitative ETL Pipeline](https://jswindell.dev/blogs/data-pipeline/)** | GCP-backed data pipeline with multi-source ingestion, two-tier caching, validation gates, and point-in-time architecture for research workflows. | Python, Docker, GCP, GCS, Pandas, data validation |
